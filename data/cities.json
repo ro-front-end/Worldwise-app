@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "0098",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-08-30T17:33:47.546Z",
+      "notes": "",
+      "position": {
+        "lat": "40.964892519636685",
+        "lng": "29.256582098420445"
+      }
+    },
+    {
+      "id": "9a16",
+      "cityName": "Ciudad del Carmen",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-08-30T17:34:08.781Z",
+      "notes": "",
+      "position": {
+        "lat": "18.652544053251475",
+        "lng": "-91.77423534439609"
+      }
+    },
+    {
+      "id": "f375",
+      "cityName": "Merida",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-08-30T17:34:26.015Z",
+      "notes": "",
+      "position": {
+        "lat": "20.95380727037666",
+        "lng": "-89.61823777177301"
+      }
+    },
+    {
+      "id": "b768",
+      "cityName": "San Cristobal de las Casas",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-08-30T17:35:06.926Z",
+      "notes": "",
+      "position": {
+        "lat": "16.668805689927005",
+        "lng": "-92.6145961157349"
+      }
+    },
+    {
+      "id": "b26a",
+      "cityName": "Athens",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-08-30T17:37:41.451Z",
+      "notes": "",
+      "position": {
+        "lat": "37.97909485054781",
+        "lng": "23.755199156295323"
+      }
+    }
+  ]
+}
